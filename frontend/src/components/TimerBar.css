@@ -7,4 +7,10 @@
   height: 3rem;
   background-color: lightgreen;
   border: 2px solid black;
+  overflow: hidden;
+}
+
+.timer-bar__progress-fill {
+  background-color: green;
+  height: 100%;
 }
