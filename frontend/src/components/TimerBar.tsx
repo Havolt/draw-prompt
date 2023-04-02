@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 
+import "./TimerBar.css";
+
 function TimerBar() {
   const [remainingTime, setRemainingTime] = useState(0);
 

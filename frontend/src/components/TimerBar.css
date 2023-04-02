@@ -1,0 +1,10 @@
+.timer-bar__time {
+  font-size: 2rem;
+}
+
+.timer-bar__progress {
+  width: 100%;
+  height: 3rem;
+  background-color: lightgreen;
+  border: 2px solid black;
+}
