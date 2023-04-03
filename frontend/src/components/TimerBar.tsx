@@ -2,8 +2,11 @@ import React, { useState } from "react";
 
 import "./TimerBar.css";
 
-function TimerBar() {
-  const [remainingTime, setRemainingTime] = useState(0);
+interface TimerBarProps {
+  remainingTime: number;
+}
+
+function TimerBar({ remainingTime }: TimerBarProps) {
   const [timerPercent, setTimerPercent] = useState(0);
 
   return (
