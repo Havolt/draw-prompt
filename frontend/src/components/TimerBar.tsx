@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 
 import "./TimerBar.css";
 
@@ -8,6 +8,10 @@ interface TimerBarProps {
 
 function TimerBar({ remainingTime }: TimerBarProps) {
   const [timerPercent, setTimerPercent] = useState(0);
+
+  useEffect(() => {
+    setTimerPercent(() => (remainingTime / 5) * 100);
+  }, [remainingTime]); // Only re-run the effect if count changes
 
   return (
     <div className="timer-bar">
