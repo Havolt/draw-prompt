@@ -4,14 +4,15 @@ import "./TimerBar.css";
 
 interface TimerBarProps {
   remainingTime: number;
+  initialTime: number;
 }
 
-function TimerBar({ remainingTime }: TimerBarProps) {
+function TimerBar({ remainingTime, initialTime }: TimerBarProps) {
   const [timerPercent, setTimerPercent] = useState(0);
 
   useEffect(() => {
-    setTimerPercent(() => (remainingTime / 5) * 100);
-  }, [remainingTime]); // Only re-run the effect if count changes
+    setTimerPercent(() => (remainingTime / initialTime) * 100);
+  }, [remainingTime, initialTime]); // Only re-run the effect if count changes
 
   return (
     <div className="timer-bar">

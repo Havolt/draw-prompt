@@ -4,10 +4,11 @@ import TimerBar from "./TimerBar";
 import RequestPrompt from "./RequestPrompt";
 
 function Main() {
+  const initialTime = 60;
   const [remainingTime, setRemainingTime] = useState(0);
 
   const startTimer = () => {
-    setRemainingTime(5);
+    setRemainingTime(initialTime);
   };
 
   const countdown = () => {
@@ -28,7 +29,7 @@ function Main() {
   return (
     <div>
       <RequestPrompt startTimer={startTimer} />
-      <TimerBar remainingTime={remainingTime} />
+      <TimerBar remainingTime={remainingTime} initialTime={initialTime} />
     </div>
   );
 }
