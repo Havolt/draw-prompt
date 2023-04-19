@@ -1,0 +1,471 @@
+[
+  { "prompt": "Draw a whimsical tree with a face", "category": "Nature" },
+  {
+    "prompt": "Illustrate your favorite fairy tale in a modern setting",
+    "category": "Storytelling"
+  },
+  {
+    "prompt": "Draw a robot made entirely out of junk",
+    "category": "Science Fiction"
+  },
+  {
+    "prompt": "Illustrate a cityscape at night with vibrant colors",
+    "category": "Architecture"
+  },
+  {
+    "prompt": "Draw a dragon breathing fire over a medieval village",
+    "category": "Fantasy"
+  },
+  {
+    "prompt": "Illustrate an underwater scene with a shipwreck and colorful fish",
+    "category": "Nature"
+  },
+  {
+    "prompt": "Draw an astronaut exploring a new planet",
+    "category": "Science Fiction"
+  },
+  {
+    "prompt": "Illustrate a scene from your favorite book",
+    "category": "Storytelling"
+  },
+  {
+    "prompt": "Draw a portrait of a famous historical figure",
+    "category": "History"
+  },
+  {
+    "prompt": "Illustrate a whimsical garden with talking animals",
+    "category": "Nature"
+  },
+  {
+    "prompt": "Draw a superhero battling a villain in a futuristic city",
+    "category": "Science Fiction"
+  },
+  {
+    "prompt": "Illustrate an epic battle scene with knights and dragons",
+    "category": "Fantasy"
+  },
+  {
+    "prompt": "Draw a beautiful landscape with mountains and a river",
+    "category": "Nature"
+  },
+  {
+    "prompt": "Illustrate an enchanted forest with fairies and unicorns",
+    "category": "Fantasy"
+  },
+  {
+    "prompt": "Draw a futuristic vehicle that can travel through time",
+    "category": "Science Fiction"
+  },
+  {
+    "prompt": "Illustrate a magical world with flying islands and talking clouds",
+    "category": "Fantasy"
+  },
+  {
+    "prompt": "Draw a portrait of a celebrity you admire",
+    "category": "Pop Culture"
+  },
+  {
+    "prompt": "Illustrate a scene from your favorite movie",
+    "category": "Storytelling"
+  },
+  {
+    "prompt": "Draw an animal in a surrealistic style",
+    "category": "Artistic"
+  },
+  {
+    "prompt": "Illustrate a cityscape with towering skyscrapers and busy streets",
+    "category": "Architecture"
+  },
+  {
+    "prompt": "Draw a mystical creature that has never been seen before",
+    "category": "Fantasy"
+  },
+  {
+    "prompt": "Illustrate a character from a video game",
+    "category": "Gaming"
+  },
+  {
+    "prompt": "Draw a portrait of a family member or friend",
+    "category": "Personal"
+  },
+  {
+    "prompt": "Illustrate a scene from a historical event",
+    "category": "History"
+  },
+  {
+    "prompt": "Draw a futuristic city with floating buildings",
+    "category": "Science Fiction"
+  },
+  {
+    "prompt": "Illustrate a magical creature made up of different animal parts",
+    "category": "Fantasy"
+  },
+  {
+    "prompt": "Draw a landscape with a waterfall and rainbow",
+    "category": "Nature"
+  },
+  {
+    "prompt": "Illustrate a scene from your favorite mythological story",
+    "category": "Storytelling"
+  },
+  {
+    "prompt": "Draw a group of people from different cultures and backgrounds coming together",
+    "category": "Diversity"
+  },
+  { "prompt": "Illustrate a scene from a popular song", "category": "Music" },
+  {
+    "prompt": "Draw an abandoned building with overgrown vines and plants",
+    "category": "Architecture"
+  },
+  {
+    "prompt": "Illustrate a character from a comic book",
+    "category": "Comics"
+  },
+  {
+    "prompt": "Draw a portrait of a person with a unique fashion sense",
+    "category": "Fashion"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite childhood memory",
+    "category": "Personal"
+  },
+  {
+    "prompt": "Draw an imaginary creature that could exist on another planet",
+    "category": "Science Fiction"
+  },
+  {
+    "prompt": "Illustrate a mythical creature battling a modern-day creature",
+    "category": "Fantasy"
+  },
+  {
+    "prompt": "Draw an underwater scene with mermaids and sea creatures",
+    "category": "Nature"
+  },
+  {
+    "prompt": "Illustrate a scene from a popular TV show",
+    "category": "Pop Culture"
+  },
+  {
+    "prompt": "Draw a landscape with a full moon and stars",
+    "category": "Nature"
+  },
+  {
+    "prompt": "Illustrate a character from a popular anime",
+    "category": "Anime"
+  },
+  {
+    "prompt": "Draw a futuristic robot with a human-like personality",
+    "category": "Science Fiction"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite video game",
+    "category": "Gaming"
+  },
+  { "prompt": "Draw an animal in a realistic style", "category": "Artistic" },
+  {
+    "prompt": "Illustrate a cityscape with a retro-futuristic theme",
+    "category": "Architecture"
+  },
+  {
+    "prompt": "Draw a scene from a post-apocalyptic world",
+    "category": "Science Fiction"
+  },
+  {
+    "prompt": "Illustrate a character from a classic literature novel",
+    "category": "Literature"
+  },
+  {
+    "prompt": "Draw a still life with fruit and a vase",
+    "category": "Artistic"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite movie",
+    "category": "Pop Culture"
+  },
+  {
+    "prompt": "Draw a landscape with a sunset and silhouetted trees",
+    "category": "Nature"
+  },
+  {
+    "prompt": "Illustrate a creature from your own imagination",
+    "category": "Fantasy"
+  },
+  {
+    "prompt": "Draw a portrait of a person in a dramatic lighting",
+    "category": "Artistic"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite book",
+    "category": "Literature"
+  },
+  {
+    "prompt": "Draw a cityscape with a bustling street and skyscrapers",
+    "category": "Architecture"
+  },
+  {
+    "prompt": "Illustrate a character from a favorite TV series",
+    "category": "Pop Culture"
+  },
+  { "prompt": "Draw an animal in a cartoon style", "category": "Cartoon" },
+  {
+    "prompt": "Illustrate a mythical creature in a modern setting",
+    "category": "Fantasy"
+  },
+  {
+    "prompt": "Draw a portrait of a person with a unique hairstyle",
+    "category": "Fashion"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite play",
+    "category": "Literature"
+  },
+  {
+    "prompt": "Draw a cityscape with a colorful and vibrant street market",
+    "category": "Architecture"
+  },
+  {
+    "prompt": "Illustrate a character from a popular video game",
+    "category": "Gaming"
+  },
+  {
+    "prompt": "Draw a still life with objects arranged in a pattern",
+    "category": "Artistic"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite musical",
+    "category": "Pop Culture"
+  },
+  {
+    "prompt": "Draw a landscape with rolling hills and a meadow",
+    "category": "Nature"
+  },
+  {
+    "prompt": "Illustrate a character from a popular webcomic",
+    "category": "Comics"
+  },
+  { "prompt": "Draw a scene from a magical forest", "category": "Fantasy" },
+  {
+    "prompt": "Illustrate a character from a popular anime",
+    "category": "Animation"
+  },
+  {
+    "prompt": "Draw a still life with a musical instrument and sheet music",
+    "category": "Artistic"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite video game",
+    "category": "Gaming"
+  },
+  {
+    "prompt": "Draw a landscape with a mountain range and a lake",
+    "category": "Nature"
+  },
+  { "prompt": "Illustrate a superhero in a unique pose", "category": "Comics" },
+  {
+    "prompt": "Draw a portrait of a person with a mask",
+    "category": "Fashion"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite opera",
+    "category": "Pop Culture"
+  },
+  {
+    "prompt": "Draw a cityscape with a historic building and cobblestone streets",
+    "category": "Architecture"
+  },
+  {
+    "prompt": "Illustrate a character from a favorite book series",
+    "category": "Literature"
+  },
+  { "prompt": "Draw an animal in a realistic style", "category": "Nature" },
+  {
+    "prompt": "Illustrate a futuristic city with flying cars and neon lights",
+    "category": "Science Fiction"
+  },
+  {
+    "prompt": "Draw a portrait of a person with a unique tattoo",
+    "category": "Fashion"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite TV drama",
+    "category": "Pop Culture"
+  },
+  {
+    "prompt": "Draw a cityscape with a modern glass building and a park",
+    "category": "Architecture"
+  },
+  {
+    "prompt": "Illustrate a character from a popular manga",
+    "category": "Animation"
+  },
+  {
+    "prompt": "Draw a still life with a vase of flowers and a candle",
+    "category": "Artistic"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite documentary",
+    "category": "Pop Culture"
+  },
+  {
+    "prompt": "Draw a landscape with a desert and a cactus",
+    "category": "Nature"
+  },
+  {
+    "prompt": "Illustrate a villain from a favorite movie",
+    "category": "Pop Culture"
+  },
+  {
+    "prompt": "Draw a surrealistic landscape with floating islands",
+    "category": "Artistic"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite musical",
+    "category": "Pop Culture"
+  },
+  {
+    "prompt": "Draw an underwater world with colorful fish and coral reefs",
+    "category": "Nature"
+  },
+  {
+    "prompt": "Illustrate a character from a favorite comic book",
+    "category": "Comics"
+  },
+  {
+    "prompt": "Draw a still life with a bowl of fruit and a vase of flowers",
+    "category": "Artistic"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite historical event",
+    "category": "Pop Culture"
+  },
+  {
+    "prompt": "Draw a portrait of a person with a dramatic hairstyle",
+    "category": "Fashion"
+  },
+  {
+    "prompt": "Illustrate a character from a favorite Disney movie",
+    "category": "Animation"
+  },
+  {
+    "prompt": "Draw a landscape with a beach and palm trees",
+    "category": "Nature"
+  },
+  {
+    "prompt": "Illustrate a famous landmark from around the world",
+    "category": "Architecture"
+  },
+  {
+    "prompt": "Draw a fantasy creature that you made up",
+    "category": "Fantasy"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite science fiction movie",
+    "category": "Pop Culture"
+  },
+  {
+    "prompt": "Draw a portrait of a person with a pair of glasses",
+    "category": "Fashion"
+  },
+  {
+    "prompt": "Illustrate a character from a favorite TV comedy",
+    "category": "Pop Culture"
+  },
+  {
+    "prompt": "Draw a cityscape with a famous skyscraper",
+    "category": "Architecture"
+  },
+  {
+    "prompt": "Illustrate a character from a favorite video game franchise",
+    "category": "Gaming"
+  },
+  {
+    "prompt": "Draw a still life with a teapot and teacup",
+    "category": "Artistic"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite Broadway play",
+    "category": "Pop Culture"
+  },
+  {
+    "prompt": "Draw a landscape with a waterfall and a rainbow",
+    "category": "Nature"
+  },
+  {
+    "prompt": "Illustrate a famous painting from an art museum",
+    "category": "Artistic"
+  },
+  { "prompt": "Draw a superhero with a unique power", "category": "Comics" },
+  {
+    "prompt": "Illustrate a famous scene from a classic novel",
+    "category": "Literature"
+  },
+  {
+    "prompt": "Draw a landscape with a mountain range and a lake",
+    "category": "Nature"
+  },
+  {
+    "prompt": "Illustrate a character from a favorite anime series",
+    "category": "Animation"
+  },
+  {
+    "prompt": "Draw a still life with a vase of sunflowers",
+    "category": "Artistic"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite musical",
+    "category": "Pop Culture"
+  },
+  {
+    "prompt": "Draw a portrait of a person with a unique facial feature",
+    "category": "Fashion"
+  },
+  {
+    "prompt": "Illustrate a character from a favorite Pixar movie",
+    "category": "Animation"
+  },
+  {
+    "prompt": "Draw a seascape with a lighthouse and a sailboat",
+    "category": "Nature"
+  },
+  {
+    "prompt": "Illustrate a famous building from your hometown",
+    "category": "Architecture"
+  },
+  {
+    "prompt": "Draw a mythical creature from Greek mythology",
+    "category": "Fantasy"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite Star Wars movie",
+    "category": "Pop Culture"
+  },
+  { "prompt": "Draw a portrait of a person with a hat", "category": "Fashion" },
+  {
+    "prompt": "Illustrate a character from a favorite TV drama",
+    "category": "Pop Culture"
+  },
+  {
+    "prompt": "Draw a cityscape with a bustling street market",
+    "category": "Architecture"
+  },
+  {
+    "prompt": "Illustrate a character from a favorite comic book series",
+    "category": "Comics"
+  },
+  {
+    "prompt": "Draw a still life with a basket of apples",
+    "category": "Artistic"
+  },
+  {
+    "prompt": "Illustrate a scene from a favorite Shakespeare play",
+    "category": "Literature"
+  },
+  {
+    "prompt": "Draw a landscape with a desert and a cactus",
+    "category": "Nature"
+  },
+  {
+    "prompt": "Illustrate a famous sculpture from an art museum",
+    "category": "Artistic"
+  }
+]
